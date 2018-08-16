@@ -1,0 +1,12 @@
+intstalar en windows:
+	GIT
+
+Crear cuenta en GitHub con correo UTEM.
+
+Aprender a crear un repositorio.
+
+Mandarle al Tito un correo con el pantallazo de que:
+	-Subiste la wea de hoy a tu repositorio
+	-Los comandos con lo que lo hiciste
+
+hector.cifuentesm@utem.cl
